@@ -1,5 +1,4 @@
 # stateagencies
-This fold includes the replication files for Chang and Wang, the reach of state
 
 The POI collection files require API keys for Amap, Baidu Map, Tencent Map, and Google Maps respectively
 
